@@ -1,0 +1,22 @@
+div#container {
+	width:800px;
+	height:800px;
+}
+.nodetext {
+	color:blue;
+	font-size:13px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+rect {
+	fill-opacity: 0.3;
+	stroke: #333;
+}
+.wrong {
+	fill: red;
+}
+.hidden {
+	fill: #ddd;
+}
+.right {
+	fill: green;
+}
